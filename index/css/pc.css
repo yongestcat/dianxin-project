@@ -10,3 +10,27 @@
 .logo span{
     font-size:24px
 }
+
+.footer{
+    align-items: center;
+    text-align: center;
+}
+
+.leftContainer{
+    width:400px;
+    float:left;
+    
+}
+
+.container{
+    padding-top: 10px;
+}
+
+.carousel{
+    float:left;
+    width:400px;
+}
+
+.topNewsList{
+    float:left;
+}

@@ -7,17 +7,18 @@ import {
     SmileOutlined,
     SyncOutlined,
     LoadingOutlined,
-  } from '@ant-design/icons';
+  } from '@ant-design/icons'
 
 export default class PCHeader extends React.Component{
-    render(){
-        constructor(){
-            super();
-            this.state={
-                current:"top"
-            }
+    constructor(){
+        super();
+        this.state={
+            current: "top"            
+        };
+    }
 
-        }
+    render(){      
+
         return (
             <header>
                 <Row>
